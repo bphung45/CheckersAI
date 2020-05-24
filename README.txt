@@ -2,7 +2,7 @@ Checkers AI
 Programmed by Jung Won Lee and Benjamin Phung
 
 Instructions:
-1) Download ZIP file and place all folders in the src into the src
+1) Place all folders in the src into the src
    of a new Java project.
 
 2) To open Checkers GUI, open the class CheckersGUI and run. A window
